@@ -51,6 +51,7 @@
     - id: DoorRemoteCommand
     - id: MedalCase
     - id: NukeDisk
+    - id: ClothingOuterCoatCaptain
     - id: PinpointerNuclear
     - id: PlushieNuke
       prob: 0.1
